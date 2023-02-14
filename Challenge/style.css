@@ -1,0 +1,52 @@
+
+body  {display: flex;
+       justify-content: center;
+    
+    
+    }
+
+@font-face {
+    font-family: 'Dela';
+    src: url(./fonts/dela.ttf);}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(./fonts/dela.ttf);}
+
+.crowd  {font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.451px;
+    line-height: 27px;
+    color: #000000;}
+
+.btn-blue {
+    border-radius: 20px;
+    border-color: #5736B8;
+  }
+
+.title  {
+    font-family: 'Dela';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 82px;
+}
+
+.card-text  {font-family: 'Dela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9B9B9B;}
+
+.mail   {font-family: 'Dela';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9B9B9B;}
+
+
+
+
