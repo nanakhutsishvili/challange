@@ -1,8 +1,6 @@
 
 body  {display: flex;
-       justify-content: center;
-    
-    
+       justify-content: center;  
     }
 
 @font-face {
@@ -46,6 +44,9 @@ body  {display: flex;
     font-size: 18px;
     line-height: 28px;
     color: #9B9B9B;}
+
+.docs {background-color: white;
+       }
 
 
 
