@@ -6,14 +6,54 @@
 .name   {font-weight: 400;
     font-size: 18px;}
 
-h1  {margin-left:  100px;}
+.img2   {border-radius: 50px;
+    height: 39px;
+    width: 39px;}
+
+h1  {margin-left:  100px;
+    font-weight: 700;
+    font-size: 72px;}
 
 p   {margin-left: 100px;}
 
-.ellipse {right: 0;}
+.ellipse {right: 0;
+        height: 707px;}
 
 .docs    {right:  80px; }
 
 .nav-text   {color: #000000; }
 
-.footer > a{color: black;}
+.footer > a {color: black;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;}
+
+.brothers {justify-content: baseline;}
+
+span {font-size: 14px;}
+
+.p   {font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9B9B9B;}
+
+.download   { border: 2px solid #5736B8;
+    width: 273px;
+    height: 60px;
+    border-radius: 100px;
+    margin: 0; 
+    padding: 0;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 30px;
+    }
+
+.line  { width: 1px;}
+
+.border-right  { border-right: 1px solid #5736B8;}
+
+
+
+  
+
+
